@@ -1,0 +1,8 @@
+
+def cell_empty(cell):
+    # TODO implement
+    return False
+
+def cell_exists(cell):
+    # TODO implement
+    return False
